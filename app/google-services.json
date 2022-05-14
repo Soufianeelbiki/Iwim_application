@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "106034565759",
+    "firebase_url": "https://first-project-58c00-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "first-project-58c00",
+    "storage_bucket": "first-project-58c00.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106034565759:android:82504a3ce4860fb777254a",
+        "android_client_info": {
+          "package_name": "com.example.iwimapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106034565759-3kqt9erhhm8kpgvgud3jtk8h3nfqeq37.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ7_orteCGirhDidZtU7fVqtr0Ykoy8jI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106034565759-3kqt9erhhm8kpgvgud3jtk8h3nfqeq37.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

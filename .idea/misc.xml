@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ayoub/Pictures/iwapp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2265" />
+        <entry key="..\:/Users/ayoub/Pictures/iwapp/app/src/main/res/drawable/addsubject.xml" value="0.2265" />
+        <entry key="..\:/Users/ayoub/Pictures/iwapp/app/src/main/res/drawable/addtimetable.xml" value="0.2265" />
+        <entry key="..\:/Users/ayoub/Pictures/iwapp/app/src/main/res/drawable/adduser.xml" value="0.2265" />
+        <entry key="..\:/Users/ayoub/Pictures/iwapp/app/src/main/res/drawable/back.xml" value="0.2265" />
+        <entry key="..\:/Users/ayoub/Pictures/iwapp/app/src/main/res/drawable/border.xml" value="0.2265" />
+        <entry key="..\:/Users/ayoub/Pictures/iwapp/app/src/main/res/drawable/bordermenu.xml" value="0.2265" />
+        <entry key="..\:/Users/ayoub/Pictures/iwapp/app/src/main/res/drawable/cercle.xml" value="0.1" />
+        <entry key="..\:/Users/ayoub/Pictures/iwapp/app/src/main/res/drawable/corner.xml" value="0.1" />
+        <entry key="..\:/Users/ayoub/Pictures/iwapp/app/src/main/res/drawable/deleteuser.xml" value="0.2265" />
+        <entry key="..\:/Users/ayoub/Pictures/iwapp/app/src/main/res/drawable/fixborder.xml" value="0.1" />
+        <entry key="..\:/Users/ayoub/Pictures/iwapp/app/src/main/res/drawable/home.xml" value="0.1" />
+        <entry key="..\:/Users/ayoub/Pictures/iwapp/app/src/main/res/drawable/ic_baseline_email_24.xml" value="0.124" />
+        <entry key="..\:/Users/ayoub/Pictures/iwapp/app/src/main/res/drawable/ic_baseline_phone_24.xml" value="0.2265" />
+        <entry key="..\:/Users/ayoub/Pictures/iwapp/app/src/main/res/drawable/ic_code.xml" value="0.1" />
+        <entry key="..\:/Users/ayoub/Pictures/iwapp/app/src/main/res/drawable/ic_email.xml" value="0.1" />
+        <entry key="..\:/Users/ayoub/Pictures/iwapp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/ayoub/Pictures/iwapp/app/src/main/res/drawable/ic_name.xml" value="0.1" />
+        <entry key="..\:/Users/ayoub/Pictures/iwapp/app/src/main/res/drawable/ic_sname.xml" value="0.1" />
+        <entry key="..\:/Users/ayoub/Pictures/iwapp/app/src/main/res/drawable/message.xml" value="0.1" />
+        <entry key="..\:/Users/ayoub/Pictures/iwapp/app/src/main/res/drawable/person.xml" value="0.1" />
+        <entry key="..\:/Users/ayoub/Pictures/iwapp/app/src/main/res/drawable/profil.xml" value="0.2265" />
+        <entry key="..\:/Users/ayoub/Pictures/iwapp/app/src/main/res/drawable/students.xml" value="0.2265" />
+        <entry key="..\:/Users/ayoub/Pictures/iwapp/app/src/main/res/drawable/subjects.xml" value="0.1" />
+        <entry key="..\:/Users/ayoub/Pictures/iwapp/app/src/main/res/drawable/teachers.xml" value="0.1" />
+        <entry key="..\:/Users/ayoub/Pictures/iwapp/app/src/main/res/drawable/timetable.xml" value="0.1" />
+        <entry key="..\:/Users/ayoub/Pictures/iwapp/app/src/main/res/drawable/userborder.xml" value="0.1" />
+        <entry key="..\:/Users/ayoub/Pictures/iwapp/app/src/main/res/layout/activity_add_timetable.xml" value="0.10400000000000001" />
+        <entry key="..\:/Users/ayoub/Pictures/iwapp/app/src/main/res/layout/activity_download_timetable.xml" value="0.1" />
+        <entry key="..\:/Users/ayoub/Pictures/iwapp/app/src/main/res/layout/activity_edit_profile.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ayoub/Pictures/iwapp/app/src/main/res/layout/activity_home.xml" value="0.12360688956433637" />
+        <entry key="..\:/Users/ayoub/Pictures/iwapp/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ayoub/Pictures/iwapp/app/src/main/res/layout/activity_manage_students.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ayoub/Pictures/iwapp/app/src/main/res/layout/activity_manage_subjects.xml" value="0.12360688956433637" />
+        <entry key="..\:/Users/ayoub/Pictures/iwapp/app/src/main/res/layout/activity_manage_teachers.xml" value="0.12360688956433637" />
+        <entry key="..\:/Users/ayoub/Pictures/iwapp/app/src/main/res/layout/activity_manage_timetable.xml" value="0.12360688956433637" />
+        <entry key="..\:/Users/ayoub/Pictures/iwapp/app/src/main/res/layout/activity_profile.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ayoub/Pictures/iwapp/app/src/main/res/layout/activity_register.xml" value="0.1" />
+        <entry key="..\:/Users/ayoub/Pictures/iwapp/app/src/main/res/layout/appbar.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ayoub/Pictures/iwapp/app/src/main/res/layout/backappbar.xml" value="0.18432971014492755" />
+        <entry key="..\:/Users/ayoub/Pictures/iwapp/app/src/main/res/layout/itemmenu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ayoub/Pictures/iwapp/app/src/main/res/layout/studentitem.xml" value="0.264" />
+        <entry key="..\:/Users/ayoub/Pictures/iwapp/app/src/main/res/layout/studentlist.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ayoub/Pictures/iwapp/app/src/main/res/layout/useritem.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ybaki/AndroidStudioProjects/iwim-application/app/src/main/res/drawable/addsubject.xml" value="0.236" />
+        <entry key="..\:/Users/ybaki/AndroidStudioProjects/iwim-application/app/src/main/res/drawable/addtimetable.xml" value="0.2445" />
+        <entry key="..\:/Users/ybaki/AndroidStudioProjects/iwim-application/app/src/main/res/drawable/adduser.xml" value="0.236" />
+        <entry key="..\:/Users/ybaki/AndroidStudioProjects/iwim-application/app/src/main/res/drawable/back.xml" value="0.236" />
+        <entry key="..\:/Users/ybaki/AndroidStudioProjects/iwim-application/app/src/main/res/drawable/border.xml" value="0.236" />
+        <entry key="..\:/Users/ybaki/AndroidStudioProjects/iwim-application/app/src/main/res/drawable/bordermenu.xml" value="0.236" />
+        <entry key="..\:/Users/ybaki/AndroidStudioProjects/iwim-application/app/src/main/res/drawable/cercle.xml" value="0.236" />
+        <entry key="..\:/Users/ybaki/AndroidStudioProjects/iwim-application/app/src/main/res/drawable/corner.xml" value="0.236" />
+        <entry key="..\:/Users/ybaki/AndroidStudioProjects/iwim-application/app/src/main/res/drawable/deleteuser.xml" value="0.108" />
+        <entry key="..\:/Users/ybaki/AndroidStudioProjects/iwim-application/app/src/main/res/drawable/fixborder.xml" value="0.236" />
+        <entry key="..\:/Users/ybaki/AndroidStudioProjects/iwim-application/app/src/main/res/drawable/profile.xml" value="0.236" />
+        <entry key="..\:/Users/ybaki/AndroidStudioProjects/iwim-application/app/src/main/res/drawable/students.xml" value="0.236" />
+        <entry key="..\:/Users/ybaki/AndroidStudioProjects/iwim-application/app/src/main/res/drawable/userborder.xml" value="0.236" />
+        <entry key="..\:/Users/ybaki/AndroidStudioProjects/iwim-application/app/src/main/res/layout/activity_add_timetable.xml" value="0.25" />
+        <entry key="..\:/Users/ybaki/AndroidStudioProjects/iwim-application/app/src/main/res/layout/activity_download_timetable.xml" value="0.2" />
+        <entry key="..\:/Users/ybaki/AndroidStudioProjects/iwim-application/app/src/main/res/layout/activity_edit_profile.xml" value="0.264" />
+        <entry key="..\:/Users/ybaki/AndroidStudioProjects/iwim-application/app/src/main/res/layout/activity_home.xml" value="0.2296875" />
+        <entry key="..\:/Users/ybaki/AndroidStudioProjects/iwim-application/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/ybaki/AndroidStudioProjects/iwim-application/app/src/main/res/layout/activity_manage_students.xml" value="0.1" />
+        <entry key="..\:/Users/ybaki/AndroidStudioProjects/iwim-application/app/src/main/res/layout/activity_manage_subjects.xml" value="0.2296875" />
+        <entry key="..\:/Users/ybaki/AndroidStudioProjects/iwim-application/app/src/main/res/layout/activity_manage_teachers.xml" value="0.2296875" />
+        <entry key="..\:/Users/ybaki/AndroidStudioProjects/iwim-application/app/src/main/res/layout/activity_manage_timetable.xml" value="0.2296875" />
+        <entry key="..\:/Users/ybaki/AndroidStudioProjects/iwim-application/app/src/main/res/layout/activity_profile.xml" value="0.2" />
+        <entry key="..\:/Users/ybaki/AndroidStudioProjects/iwim-application/app/src/main/res/layout/activity_register.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ybaki/AndroidStudioProjects/iwim-application/app/src/main/res/layout/appbar.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ybaki/AndroidStudioProjects/iwim-application/app/src/main/res/layout/backappbar.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ybaki/AndroidStudioProjects/iwim-application/app/src/main/res/layout/itemmenu.xml" value="0.264" />
+        <entry key="..\:/Users/ybaki/AndroidStudioProjects/iwim-application/app/src/main/res/layout/studentList.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ybaki/AndroidStudioProjects/iwim-application/app/src/main/res/layout/useritem.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ybaki/AndroidStudioProjects/iwim-application/app/src/main/res/layout/userslist.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
