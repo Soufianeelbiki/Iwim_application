@@ -26,7 +26,6 @@ sonarqube {
     property "sonar.projectKey", "TP_Sonarqube"
   }
 }
-
 allprojects {
     repositories {
         google()
